@@ -1,3 +1,21 @@
+*.weights
+*.conv.74
+*.avi
+*.mp4
+*.jpg
+*.pth
+logs
+comandos.txt
+data/custom/labels/*.txt
+
+
+
+train.txt
+valid.txt
+get_coco_dataset.sh
+config/yolov3-custom.cfg
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
